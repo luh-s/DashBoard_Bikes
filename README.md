@@ -109,6 +109,5 @@ O dashboard foi planejado para ser interativo e intuitivo, com:
 
 ## ▶️ Como Visualizar
 
-1. Baixe o arquivo do projeto no repositório;
-2. Abra o arquivo `.pbix` no **Power BI Desktop** ou utilize o link presente no github para visualização facilitada;
-3. Explore os filtros e as páginas do dashboard.
+1. Utilize o link presente no github para visualização facilitada;
+2. Explore os filtros e as páginas do dashboard.
